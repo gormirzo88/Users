@@ -1,0 +1,25 @@
+.info{
+  margin: 55px 42px;
+  display: flex;
+  padding: 5px;
+  background-color:#9A9A9A ;
+  img{
+      width: 281px;
+      height: 300px;
+    }
+    ul{
+      list-style-type:none;
+      background: #9A9A9A;
+      padding: 20px 5px;
+        h2{
+          margin-left: 35px;
+        }
+        li{
+          font-family:Arial;
+          font-size: 21px;
+          background:#bfbfbf4d;
+          padding: 5px;
+          margin-left: 35px;
+        }
+    }
+}

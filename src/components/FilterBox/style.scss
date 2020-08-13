@@ -1,0 +1,17 @@
+.btn{
+  border: 1px solid #555555;
+  border-radius: 13px;
+
+  &:hover{
+      background-color: #555555;
+      color: white;
+    }
+}
+.panel{
+
+}
+.disable {
+  background-color: #CDCDCD;
+  pointer-events: none !important;
+  color:#959595;
+}
